@@ -1,5 +1,13 @@
 # Spring Simple Board Web Project
 
+## 구성
+- [개발 동기](#개발-동기)
+- [개발 환경](#Environment)
+- [구현 기능](#구현-기능)
+- [결과 화면](#결과-화면)
+- [향후 과제](#향후-과제)
+- [참고 자료](#참고-자료)
+
 ## 개발 동기
 Java로 게시판을 구현 해보면서 Spring Framework에 대한 사용법과 이해도 확립을 목표로 진행하게 되었습니다.
 
@@ -16,7 +24,7 @@ DB | Oracle Database 11g Express
 ORM | Mybatis
 Library | Lombok, HikariCP
 
-## 구현기능
+## 구현 기능
 
 ## 결과 화면
 ![register](/img/client_DB_c_cr.PNG)
@@ -26,5 +34,5 @@ Library | Lombok, HikariCP
 
 ## 향후 과제
 
-## 참고자료
+## 참고 자료
 코드로 배우는 스프링 웹 프로젝트(개정판) - 구멍가게 코딩단
