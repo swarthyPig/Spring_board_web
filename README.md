@@ -18,21 +18,40 @@ OS | Windows10
 Language | Java 1.8 
 Tool | Spring Tool Suite
 Backend | Spring MVC
-Frontend | Bootstrap(AdminLTE-3.0.1), Jsp, jQuery
+Frontend | Bootstrap(AdminLTE-3.0.1), jsp, jQuery
 WAS | Tomcat 9
 DB | Oracle Database 11g Express
 ORM | Mybatis
-Library | Lombok, HikariCP
+Library | Lombok, HikariCP, spring-security, ajax
 
 ## 구현 기능
+* 게시글
+  - 
+* 댓글
+  -
+* 로그인, 로그아웃, 회원가입
+  -
 
 ## 결과 화면
-![register](/img/client_DB_c_cr.PNG)
-![read](/img/client_DB_c_cr.PNG)
-![get](/img/client_DB_c_cr.PNG)
-![modify_and_remove](/img/client_DB_c_cr.PNG)
+
+* 게시글
+![list](/img/list.PNG)
+![get](/img/get.PNG)
+![modify_and_remove](/img/modify.PNG)
+
+* 댓글
+![replyRegister](/img/replyRegister.PNG)
+![replyModify](/img/replyModify.PNG)
+
+* 회원가입 로그인
+![login](/img/login.PNG)
+![signUp](/img/signUp.PNG)
+
 
 ## 향후 과제
+* 회원탈퇴
+* 아이디 중복검사
+* 조회수 
 
 ## 참고 자료
 코드로 배우는 스프링 웹 프로젝트(개정판) - 구멍가게 코딩단
