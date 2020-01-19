@@ -50,20 +50,28 @@ Library | Lombok, HikariCP, spring-security, ajax
 ## 결과 화면
 
 * 게시글
-![list](/img/list.PNG)
-![get](/img/get.PNG)
-![modify_and_remove](/img/modify.PNG)
+  - 게시글 리스트 열람
+  ![list](/img/list.PNG)
+  - 게시글과 댓글 열람
+  ![get](/img/get.PNG)
+  - 게시글 수정과 삭제
+  ![modify_and_remove](/img/modify.PNG)
 
 * 댓글
-![replyRegister](/img/replyRegister.PNG)
-![replyModify](/img/replyModify.PNG)
+  - 댓글 등록
+  ![replyRegister](/img/replyRegister.PNG)
+  - 댓글 수정과 삭제
+  ![replyModify](/img/replyModify.PNG)
 
 * 회원가입 로그인
-![login](/img/login.PNG)
-![signUp](/img/signUp.PNG)
+  - 회원가입
+  ![signUp](/img/signUp.PNG)
+  - 로그인
+  ![login](/img/login.PNG)
 
 * 데이터 베이스
-![DB](/img/DB.PNG)
+  - DB 목록
+  ![DB](/img/DB.PNG)
 
 
 ## 향후 과제
